@@ -1,0 +1,8 @@
+{
+  "app": "npx ts-node --prefer-ts-exts bin/cdk.ts",
+  "context": {
+    "slackWorkspaceId": "your-slack-workspace-id",
+    "slackChannelId": "your-slack-channel-id",
+    "mailAddress": "your-mail-address"
+  }
+}
